@@ -5,7 +5,7 @@ import 'package:font_awesome_flutter/font_awesome_flutter.dart';
 import 'package:http/http.dart';
 import 'location.dart';
 
-const apiKey = '1b89aeb4ee52f4691717184f60c6650b';
+const apiKey = '************************';
 
 class WeatherDisplayData{
   Icon weatherIcon;
